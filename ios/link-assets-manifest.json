@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Avenir-Black.ttf",
+      "sha1": "dd39bb7ab87e874f66d22b44dfeece7ac25275bb"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Book.ttf",
+      "sha1": "3439d15d352dadbe484d51f3a6b1d70d5c8f0b77"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Heavy.ttf",
+      "sha1": "6ff878b0fe6386d8e1320c60231e84d27657e316"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Medium.ttf",
+      "sha1": "806d48e70fe667ad0915420435659e2acb566267"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Roman.ttf",
+      "sha1": "758723a68b2480466c95a1e090f5be8eafbd5817"
+    }
+  ]
+}
