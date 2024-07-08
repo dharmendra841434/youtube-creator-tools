@@ -167,7 +167,7 @@ const ThumbnailChecker = () => {
             />
             <InputField
               isSearch={true}
-              placeholder="Enter Brand Name"
+              placeholder="Enter Brand/Channel Name"
               style={{marginTop: '5%'}}
               value={brandName}
               onChangeText={t => setBrandName(t)}

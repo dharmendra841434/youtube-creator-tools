@@ -106,7 +106,7 @@ const TagGenerator = () => {
       <TopHeader title="Tag Generator" />
       <View className="px-4 pb-3 bg-secondry ">
         <InputField
-          placeholder="Enter Keywords To Generate Title"
+          placeholder="Enter Video title/topic"
           onSearch={() => {
             inputRef?.current?.blur();
             generateVideoTags();
